@@ -15,7 +15,7 @@ document.querySelector('#menu-icon').onclick = () => {
 
 // pagination start
 let thisPage = 1;
-let limit = 8;
+let limit = 6;
 let list = document.querySelectorAll('.products-container .box');
 
 function loadItem(){
