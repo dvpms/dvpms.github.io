@@ -152,6 +152,7 @@ header.shadow{
     font-weight: 500;
 }
 .btn:hover{
+    border: solid 2px var(--second-color);
     background: var(--second-color);
 }
 .heading{
@@ -250,8 +251,7 @@ header.shadow{
     font-weight: 500;
 }
 .products-container .box .content a:hover{
-    background: var(--main-color);
-    color: var(--bg-color);
+    background-color: var(--second-color);
     transition: 0.2s all linear;
 }
 .listPage{
