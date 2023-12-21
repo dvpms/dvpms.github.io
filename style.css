@@ -179,7 +179,8 @@ header.shadow{
 .team-container .box p{
     font-size: 0.938rem;
 }
-.team-container .box h2{
+.team-container .box h3{
+    color: var(--main-color);
     font-size: 1.2rem;
     font-weight: 600;
     margin: 0.5rem 0 0.5rem;
