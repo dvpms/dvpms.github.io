@@ -421,6 +421,9 @@ header.shadow{
     .navbar.active{
         top: 100%;
     }
+    .home-text{
+        margin-top: 40px;
+    }    
     .about {
         align-items: center;
     }
