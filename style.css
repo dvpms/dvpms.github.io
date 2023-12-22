@@ -133,7 +133,7 @@ header.shadow{
     margin-top: 5%;
 }
 .home-text h1{
-    font-size: 3.4rem;
+    font-size: 3rem;
     color: var(--text-color);
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -144,7 +144,7 @@ header.shadow{
     margin: 0.5rem 0 1.4rem;
 }
 .btn{
-    border: solid 2px;
+    border: solid 1px;
     padding: 10px 40px;
     border-radius: 0.3rem;
     background-position: var(--main-color);
@@ -152,7 +152,7 @@ header.shadow{
     font-weight: 500;
 }
 .btn:hover{
-    border: solid 2px var(--second-color);
+    border: solid 1px var(--text-color);
     background: var(--second-color);
 }
 .heading{
@@ -244,7 +244,7 @@ header.shadow{
     font-weight: 500;
 }
 .products-container .box .content a{
-    padding: 0 1rem;
+    padding: 0 8px;
     color: var(--text-color);
     border: 2px solid white;
     border-radius: 4px;
