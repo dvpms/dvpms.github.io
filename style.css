@@ -187,10 +187,13 @@ header.shadow{
     margin: 0.5rem 0 0.5rem;
 }
 .team-container .box img{
-    max-width:230px;
+    max-width: 230px;
     max-height: 230px;
     border-radius: 50%;
     object-fit: cover;
+}
+.team-container .box .L{
+    object-fit: scale-down;
 }
 
 .products .heading{
